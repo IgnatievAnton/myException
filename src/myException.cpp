@@ -1,0 +1,1 @@
+#include<myExcept/myException.hpp>
